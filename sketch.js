@@ -1,4 +1,4 @@
-https://editor.p5js.org/cobalto202330/sketches/ncFo-Gak0
+
 let cor;
 let circuloX;// horizontal
 let circuloY;// vertical
